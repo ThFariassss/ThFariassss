@@ -44,10 +44,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThFariassss&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThFariassss&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThFariassss&theme=tokyonight" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=ThFariassss&theme=tokyonight&hide_border=true&locale=pt_BR" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThFariassss&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThFariassss&theme=tokyonight" width="49%" />
 
 </div>
 
