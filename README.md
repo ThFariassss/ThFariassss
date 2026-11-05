@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Computação, apaixonado por **Inteligência Artificial**
+- 🎓 Estudante de **Ciência de Dados e Inteligência Artificial**
 - 👁️ Foco em **Visão Computacional**: detecção de objetos com **YOLO** e **RT-DETR**
 - 📊 Gosto de explorar e visualizar dados com **Pandas, NumPy e Matplotlib**
 - 🌱 Atualmente estudando modelos leves e aplicações de IA em tempo real
